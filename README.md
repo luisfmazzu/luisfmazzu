@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full Stack Engineer with 8 years of experience in product-based startups, fluent in English and Portuguese.<br>🚀 Founding Engineer and Startup Builder, specialized in delivering scalable and high-performance products.<br>💡 Proactive, takes ownership, and thrives in collaborative environments.<br>👯 Looking to collaborate on meaningful and innovative projects in the Web3 and AI space.<br>🌱 Currently improving my skills in Rust, Go, and Cryptography to deepen my Web3 expertise.<br>📍 Based in Curitiba, Brazil.
+👨‍💻 Full Stack Engineer with 10 years of experience in product-based startups, fluent in English and Portuguese.<br>🚀 Founding Engineer and Startup Builder, specialized in delivering scalable and high-performance products.<br>💡 Proactive, takes ownership, and thrives in collaborative environments.<br>👯 Looking to collaborate on meaningful and innovative projects in the Web3 and AI space.<br>🌱 Currently improving my skills in Rust, Go, and Cryptography to deepen my Web3 expertise.<br>📍 Based in Curitiba, Brazil.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://luisfmazzu-github-readme-stats.vercel.app/api?username=luisfmazzu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=luisfmazzu&theme=github_dark&hide_border=false)<br/>
-![](https://luisfmazzu-github-readme-stats.vercel.app/api/top-langs/?username=luisfmazzu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
